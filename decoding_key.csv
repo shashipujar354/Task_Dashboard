@@ -1,0 +1,23 @@
+Term,Explanation
+RSGD-19909,X tropicalis review list based on orthologs
+RSGD-19919,Provide additional details for RefSeqs mentioned in PMC articles
+RSGD-18269,Deduce GENCODE genes changed to lncRNA
+RSGD-19137,Identify better human lncRNAs
+RSGD-19621,Honey bee ortholog curation
+RSGD-19804,Update Bookshelf documents and RefSeq home page
+RSGD-19831,Identify potential zebrafish nomenclature improvements
+RSGD-19901,HGNC symbols that are used as an unofficial alias on another locus
+RSGD-19905,Update RefSeq documentation
+RSGD-19919,Provide additional details for RefSeqs mentioned in PMC articles
+RSGD-19920,Create file of trusted proteins
+RSGD-19948,User-requested curation in Monodelphis domestica
+RSGD-19928,Curation lists in pig and zebrafish after BUSCO analysis
+RSGD-19930,Analyze new MANE Plus set 
+RSGD-19939,Add Rattus rattus to GP
+RSGD-19943,Review MANE where chainer is different
+RSGD-19946,Inconsistency in naming of orthologs
+RSGD-19948,User-requested curation in Monodelphis domestica
+RSGD-19950,VGNC generic processing
+RSGD-19962,"'model, protein_coding, corrected' locusType issue"
+RSGD-19967,Check for loci in multiple ortholog sets
+RSGD-19983,Run upd_refseq for multiple species
